@@ -40,3 +40,8 @@ our understanding (i.e. trust and mistrust) of those algorithms
 c) grow and practice our vocabulary around classification algorithms
 (precision, accuracy, log-odds, probability, sigmoid function, ... )
 
+
+Plot Classified Function:
+
+https://github.com/mgelbart/plot-classifier
+pip install git+https://github.com/mgelbart/plot-classifier.git
